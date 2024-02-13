@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guna</h1>
-<h3 align="center">A passionate frontend developer (MERN) in Chennai</h3>
+<h3 align="center">A passionate fullStack developer (MERN) in Chennai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guna-design&label=Profile%20views&color=0e75b6&style=flat" alt="guna-design" /> </p>
 
